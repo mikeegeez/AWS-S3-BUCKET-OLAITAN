@@ -10,14 +10,7 @@ Next, I enabled Static Website Hosting under the Properties tab and specified my
 
 To make the website publicly accessible, I added a JSON bucket policy under the Permissions tab. This policy grants public read access to the objects in the bucket — which is required for S3 static website hosting.
 
-Become a member
-BEFORE
 
-Press enter or click to view image in full size
-
-AFTER
-
-Press enter or click to view image in full size
 
 Challenges Encountered
 When I first attempted to deploy the website, it did not load.
